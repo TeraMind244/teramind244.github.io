@@ -63,6 +63,12 @@ p {
 .sidebar-wrapper a {
   color: #fff;
 }
+article {
+    padding-bottom: 10px;
+}
+ul {
+    margin-bottom: 0px;
+}
 .sidebar-wrapper .profile-container {
   padding: 30px;
   background: rgba(0, 0, 0, 0.2);
@@ -70,14 +76,14 @@ p {
   color: #fff;
 }
 .sidebar-wrapper .name {
-  font-size: 32px;
+  font-size: 40px;
   font-weight: 900;
   margin-top: 0;
   margin-bottom: 10px;
 }
 .sidebar-wrapper .tagline {
   color: rgba(255, 255, 255, 0.6);
-  font-size: 16px;
+  font-size: 18px;
   font-weight: 400;
   margin-top: 0;
   margin-bottom: 0;
@@ -103,10 +109,11 @@ p {
 }
 .sidebar-wrapper .container-block {
   padding: 30px;
+  padding-bottom: 60px;
 }
 .sidebar-wrapper .container-block-title {
   text-transform: uppercase;
-  font-size: 16px;
+  font-size: 20px;
   font-weight: 700;
   margin-top: 0;
   margin-bottom: 15px;
@@ -158,6 +165,7 @@ p {
   background: #fff;
   padding: 60px;
   padding-right: 300px;
+  padding-bottom: 1px;
 }
 .main-wrapper .section-title {
   text-transform: uppercase;
@@ -190,7 +198,7 @@ p {
   top: -2px;
 }
 .main-wrapper .section {
-  margin-bottom: 60px;
+  margin-bottom: 40px;
 }
 .main-wrapper .experiences-section .item {
   margin-bottom: 30px;
@@ -205,7 +213,7 @@ p {
   font-size: 16px;
   margin-top: 0;
   margin-bottom: 0;
-  font-weight: 500;
+  font-weight: 700;
 }
 .main-wrapper .time {
   position: absolute;
@@ -216,6 +224,7 @@ p {
 .main-wrapper .company {
   margin-bottom: 10px;
   color: #97AAC3;
+  padding-top: 5px;
 }
 .main-wrapper .project-title {
   font-size: 16px;
