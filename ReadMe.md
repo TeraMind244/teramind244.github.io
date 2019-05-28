@@ -1,4 +1,7 @@
-Free Bootstrap Resume/CV Template for developers
+
+Resume of:
+=======================================================================
+Che Van Minh Tri - TriCVM - Tri Che - Minh Che - Tera Mind
 
 Theme name:
 =======================================================================
