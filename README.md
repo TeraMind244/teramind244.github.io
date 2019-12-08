@@ -1,7 +1,7 @@
 
 Resume of:
 =======================================================================
-Che Van Minh Tri - TriCVM - Tri Che - Minh Che - Tera Mind
+Tri Van Minh Che - TriCVM - Tri Che - Minh Che - Tera Mind
 
 Theme name:
 =======================================================================
