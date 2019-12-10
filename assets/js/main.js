@@ -14,7 +14,7 @@ jQuery(document).ready(function($) {
 
             $(this).animate({
                 width: itemWidth
-            }, 800);
+            }, 0);
 
         });
 
