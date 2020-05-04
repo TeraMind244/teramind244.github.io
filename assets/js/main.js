@@ -8,13 +8,15 @@ jQuery(document).ready(function($) {
 
     $(window).on('load', function() {
 
+        const isPrinting = window.location.search === "?print";
+
         $('.level-bar-inner').each(function() {
 
             var itemWidth = $(this).data('level');
 
             $(this).animate({
                 width: itemWidth
-            }, 0);
+            }, isPrinting ? 0 : 1000);
 
         });
 
