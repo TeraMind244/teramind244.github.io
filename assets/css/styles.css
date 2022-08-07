@@ -238,6 +238,10 @@ ul {
 	margin-bottom: 40px;
 }
 
+.main-wrapper .experiences-section {
+	margin-bottom: 30px;
+}
+
 .main-wrapper .experiences-section .item {
 	margin-bottom: 30px;
 }
@@ -250,7 +254,6 @@ ul {
 
 .main-wrapper .job-title {
 	color: #3F4650;
-	font-size: 16px;
 	margin-top: 0;
 	margin-bottom: 0;
 	font-weight: 700;
